@@ -44,7 +44,7 @@ const Footer = ({}: FooterProps) => {
               border="2px solid #0e2653"
             />
             <SocialLink
-              href="https://github.com/wojnet"
+              href="https://github.com/wojnet/hexle"
               icon={GitHub}
               size={16}
               label="GitHub"
