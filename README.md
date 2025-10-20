@@ -1,4 +1,4 @@
-# Hexle 🎨
+# HexJazz 🎨
 
 A funky game inspired by Wordle, but with a color twist. Guess the hex codes and challenge your brain!
 
