@@ -6,7 +6,7 @@ A funky game inspired by Wordle, but with a color twist. Guess the hex codes and
 
 1. Clone the repo:
 
-    `git clone https://github.com/wojnet/hexle.git`
+    `git clone https://github.com/wojnet/hexjazz.git`
 
 2. Install dependencies:
 
